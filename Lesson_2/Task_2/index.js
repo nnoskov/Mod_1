@@ -1,3 +1,9 @@
+// «JavaScript-код с созданием переменных»
+
+/*
+Автор: 
+Носков Николай 
+*/
 
 const myName = 'Nikolay';
 const mySurname = 'Noskov';
