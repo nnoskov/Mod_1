@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "rollup": "^4.27.3"
+  },
+  "name": "lesson_19---assembly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Nikolay Noskov",
+  "license": "ISC",
+  "description": ""
+}
